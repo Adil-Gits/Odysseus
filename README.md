@@ -28,5 +28,3 @@ Used to run large language models (LLMs) locally on your hardware.
 
 ---
 
-5. You can then enjoy using the AI.
-```
