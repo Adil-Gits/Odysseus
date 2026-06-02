@@ -4,7 +4,7 @@ This repository provides a step-by-step guide on how to install and run **Odysse
 
 ---
 
-## 🛠️ Prerequisites
+## 🛠️ Downloads (IMPORTANT)
 
 Before installing Odysseus AI, you **must** download and install the following core dependencies. Choose the links corresponding to your operating system.
 
